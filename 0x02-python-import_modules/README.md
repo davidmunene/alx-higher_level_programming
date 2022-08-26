@@ -31,3 +31,7 @@ Task 4: Who are you?
 - Output: One name per line in alphabetical order.
 - Names starting with __ are not printed.
 
+Task 5: Everything can be imported
+
+- 5-variable_load.py: Python program that imorts the variable a from the file variable_load_5.py and prints its value.
+
