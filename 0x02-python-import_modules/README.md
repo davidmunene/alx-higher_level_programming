@@ -19,3 +19,9 @@ Task 2: How to make a script dynamic!
   - : (or . if no argumets were passed), followed by
   - A new line, followed by
   - One argument per line - the position of the argument (starting at 1) followed by : followed by the argument value and another new line.
+
+Task 3: Infinite addition
+
+- 3-infinite_add.py: Python program that prints the result of the addition of all arguments.
+- Output: Sum of the arguments followed by a new line.
+
