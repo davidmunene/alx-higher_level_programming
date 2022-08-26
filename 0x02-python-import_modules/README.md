@@ -25,3 +25,9 @@ Task 3: Infinite addition
 - 3-infinite_add.py: Python program that prints the result of the addition of all arguments.
 - Output: Sum of the arguments followed by a new line.
 
+Task 4: Who are you?
+
+- 4-hidden_discovery.py: Python program that prints all the names defined by the compiled module hidden_4.pyc.
+- Output: One name per line in alphabetical order.
+- Names starting with __ are not printed.
+
